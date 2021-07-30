@@ -1,5 +1,6 @@
 var me = {
-    name: 'Trent',
+    name: "Trent",
     age: 23,
-    weight: 135
+    weight: 135,
+    height: "5,8"
 }
