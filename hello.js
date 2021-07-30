@@ -3,5 +3,6 @@ var me = {
     age: 23,
     weight: 135,
     height: "5,8",
-    eye_color: "brown"
+    eye_color: "brown",
+    shoe_size: 9
 }
