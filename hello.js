@@ -6,3 +6,12 @@ var me = {
     eye_color: "brown",
     shoe_size: 9
 }
+
+var person2 = {
+    name: "Louie",
+    age: 22,
+    weight: 148,
+    height: "6,1",
+    eye_color: "brown",
+    shoe_size: 13
+}
