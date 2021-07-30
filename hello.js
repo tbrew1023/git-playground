@@ -15,3 +15,12 @@ var person2 = {
     eye_color: "brown",
     shoe_size: 13
 }
+
+var person3 = {
+    name: "Ella",
+    age: 16,
+    weight: 75,
+    height: "5,2",
+    eye_color: "brown",
+    shoe_size: 6
+}
