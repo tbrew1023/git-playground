@@ -24,3 +24,9 @@ var person3 = {
     eye_color: "brown",
     shoe_size: 6
 }
+
+var person4 = {
+    name: "Person",
+    age: 50,
+    ice_cream_flavor: "chocolate"
+}
